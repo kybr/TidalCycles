@@ -1,0 +1,19 @@
+{
+  "name": "TidalCycles",
+  "description": "an implementation of TidalCycles in Raku",
+  "version": "0.1",
+  "perl": "6.*",
+  "authors": [
+    "Karl Yerkes"
+  ],
+  "auth": "Write me!",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "TidalCycles": "lib/TidalCycles.rakumod"
+  },
+  "resources": [],
+  "license": "Artistic-2.0",
+  "source-url": "Write me!"
+}
